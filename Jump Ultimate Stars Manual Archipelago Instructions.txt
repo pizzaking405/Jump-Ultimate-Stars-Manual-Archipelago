@@ -1,0 +1,28 @@
+Jump Ultimate Stars Manual Archipelago Instructions:
+
+A ROM of the game of reccomended over a physical copy, as an Action Replay cheat will be used in setup.
+
+Setup:
+
+Use the following Action Replay cheat to unlock all komas on the menu:
+
+94000130 FDFF0000
+D5000000 FFFFFFFF
+C0000000 0000001C
+D6000000 020B0BAC
+D2000000 00000000
+
+Play through the story mode, at least until you unlock the J-World boss planet, completeing as few mission objectives as possible. Make a save state after so you only have to 
+do this once.
+
+Play: Each mission within each level within each world gives 1 item check when completed.
+
+Adventure Galaxy (One Piece, Hunter x Hunter,and Black Cat planets) is open from the beginning. All other planets are unlocked through the item pool. You may not go to the J-World boss until your goal is met. The tutorial levels are not check locations.
+
+Start by revealing your starting komas in the "*Free Komas" category. All other komas are in the item pool.
+
+Decide on your goal: this may be either completeing a set number of missions, beating each level in a set number of planets, or beating all missions in a set number of planets.
+
+When your goal is met, you may go to the J-World boss. You must do the first mission "J-World Boss!" before doing the last mission "The Last Battle!"
+
+After winning "The Last Battle!" your game is complete!
